@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpo+kESaOdM=",
+  "success": true,
+  "projectFilePath": "/Users/freddy/Desktop/PARA/1Projects/MSSA/TechDev/Projects/MortgageCalculator/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/freddy/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/freddy/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/freddy/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
